@@ -26,18 +26,18 @@ const Projects = () => {
 
   const projects = [
     {
-      id: 1,
+      id: 2,
       name: `Case Study 1`,
-      description: "Coming soon",
+      description: "",
       language: "",
-      homepage: "https://james-attia.vercel.app/",
+      homepage: "https://service-web-app-iota.vercel.app/",
     },
     {
       id: 2,
       name: `Case Study 2`,
       description: "Coming soon",
       language: "",
-      homepage: "https://service-web-app-iota.vercel.app/",
+      homepage: "",
     },
     {
       id: 3,
