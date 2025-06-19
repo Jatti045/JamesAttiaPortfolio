@@ -37,7 +37,7 @@ const Projects = () => {
       name: `Case Study 2`,
       description: "Coming soon",
       language: "",
-      homepage: "",
+      homepage: "https://word-seeker-game.vercel.app/",
     },
     {
       id: 3,
