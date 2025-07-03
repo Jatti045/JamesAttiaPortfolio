@@ -44,7 +44,7 @@ const Projects = () => {
       name: `Case Study 3`,
       description: "Coming soon",
       language: "",
-      homepage: "",
+      homepage: "https://gamevault-seven.vercel.app/",
     },
     {
       id: 4,
