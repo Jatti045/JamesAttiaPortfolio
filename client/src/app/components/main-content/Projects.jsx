@@ -51,21 +51,7 @@ const Projects = () => {
       name: `Case Study 4`,
       description: "Coming soon",
       language: "",
-      homepage: "",
-    },
-    {
-      id: 5,
-      name: `Case Study 5`,
-      description: "Coming soon",
-      language: "",
-      homepage: "",
-    },
-    {
-      id: 6,
-      name: `Case Study 6`,
-      description: "Coming soon",
-      language: "",
-      homepage: "",
+      homepage: "https://llm-impact-analysis.vercel.app/",
     },
   ];
 
